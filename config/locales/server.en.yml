@@ -1,0 +1,5 @@
+en:
+  site_settings:
+    chat_integration_ifttt_enabled: "Enable the IFTTT chat-integration provider"
+    chat_integration_ifttt_webhook_key: "Your IFTTT webhook key. Find at https://ifttt.com/maker_webhooks"
+    

@@ -1,0 +1,12 @@
+en:
+  js:
+    chat_integration:
+      provider:
+        ifttt:
+          title: "IFTTT"
+          param:
+            event:
+              title: "Event Name"
+              help: "The name of the event to trigger on IFTTT"
+          errors:
+            invalid_key: "The key supplied is invalid"
